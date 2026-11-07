@@ -9,9 +9,9 @@ export const defaultArtistConfig: ArtistConfig = {
   // ============================================================
   // HERO ASSETS
   // ============================================================
-  heroVideoUrl: "/hero-poster.jpg",
+  heroVideoUrl: "/hero-video.mp4",
   heroImage: "/hero-poster.jpg",
-  profileImage: "/profile.jpg",
+  profileImage: "/hero-poster.jpg",
 
   // ============================================================
   // SOCIALS
