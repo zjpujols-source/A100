@@ -1,0 +1,8 @@
+{
+  "name": "A100 | Official Site",
+  "description": "Official artist website for A100 featuring music, videos, streaming links, and contact information.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
